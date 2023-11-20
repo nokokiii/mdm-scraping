@@ -1,0 +1,2714 @@
+[
+    {
+        "Name": "Monster Assault Energy Drink 500 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/3-2-600x600.jpg",
+        "EAN": 5060166699529,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 63,
+        "Number of pieces on the pallet": 1512
+    },
+    {
+        "Name": "Monster Energy Lo-Carb 500 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/ggg.jpg",
+        "EAN": 5060166692513,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 63,
+        "Number of pieces on the pallet": 1512
+    },
+    {
+        "Name": "Monster Ripper Energy Drink 500 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/2-2-600x600.jpg",
+        "EAN": 5060166692537,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 63,
+        "Number of pieces on the pallet": 1512
+    },
+    {
+        "Name": "Monster Energy Cans 500 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5060166692483_1439452330-2.jpg",
+        "EAN": 5060166692483,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 63,
+        "Number of pieces on a pallet": 1512
+    },
+    {
+        "Name": "Tiger Energy Drink 250 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/33-600x600.jpeg",
+        "EAN": 5900334008206,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 120,
+        "Number of pieces on the pallet": 2880
+    },
+    {
+        "Name": "Black Energy 250ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8.jpeg",
+        "EAN": 5900552014713,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Lipton Ice Tea Lemon 330 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/oooo.jpeg",
+        "EAN": 5900497600330,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 99,
+        "Number of pieces on the pallet": 2376
+    },
+    {
+        "Name": "Lipton Ice Tea Original Green 330 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/nnnn-600x600.jpg",
+        "EAN": 5900497670333,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 99,
+        "Number of pieces on the pallet": 2376
+    },
+    {
+        "Name": "Lipton Ice Tea Peach 330 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/mmm-600x600.jpg",
+        "EAN": 5900497610339,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 99,
+        "Number of pieces on the pallet": 2376
+    },
+    {
+        "Name": "Red Bull 250ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/red-bull-nap_j-energetyczny-600x600.jpg",
+        "EAN": 9002490100070,
+        "Number of pieces in the package": 14,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Red Bull Sugarfree 250ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/red-bull-sugarfree-napoj-gazowany-250-ml.png",
+        "EAN": 9002490200220,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Red Bull Energy 6 x 250 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/i.png",
+        "EAN": 9002490100193,
+        "Number of pieces in the package": 6,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 648
+    },
+    {
+        "Name": "Mountain Dew Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497280334_1439452340-2.jpg",
+        "EAN": 5900497280334,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Pepsi Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497310338_1439452340-2.jpg",
+        "EAN": 5900497310338,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Schweppes Citrus Mix  Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1434473632_szlep-mix-330-2-600x600.jpg",
+        "EAN": 8435185943996,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 99,
+        "Number of pieces on a pallet": 2376
+    },
+    {
+        "Name": "Schweppes Orange Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1434473509_szlep-330-orange-2-600x600.jpg",
+        "EAN": 8435185943972,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 99,
+        "Number of pieces on a pallet": 2376
+    },
+    {
+        "Name": "Schweppes Bitter Lemon Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185946430_1439452302-2.jpg",
+        "EAN": 8435185946430,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 99,
+        "Number of pieces on a pallet": 2376
+    },
+    {
+        "Name": "Sprite Cans  330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000014535_1439452327-2.jpg",
+        "EAN": 5449000014535,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Mirinda orange Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497330336_1439452322-2.jpg",
+        "EAN": 5900497330336,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 99,
+        "Number of pieces on a pallet": 2376
+    },
+    {
+        "Name": "Coca Cola Cherry Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/id_2773_1460716010_328x328.jpg",
+        "EAN": 5449000009500,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Coca Cola Vanilla Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1_max.jpg",
+        "EAN": 5000112604931,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Coca-Cola Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000000996_1439452331-2.jpg",
+        "EAN": 5449000000996,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Coca-Cola light Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000050205_1439452326-2.jpg",
+        "EAN": 5449000050205,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Coca-Cola  Cans 4 x 330 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000009272_1439452325-2.jpg",
+        "EAN": 5449000009272,
+        "Number of pieces in the package": 1,
+        "Number of packages on a pallet": 486,
+        "Number of pieces on a pallet": 486
+    },
+    {
+        "Name": "Fanta Orange  Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000011527_1439452327-2.jpg",
+        "EAN": 5449000011527,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Fanta Mango & Passionfruit Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Fanta-Mango-Passion-fruit.jpg",
+        "EAN": 5000112604832,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Fanta Exotic Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/GetImage-600x413.jpeg",
+        "EAN": 5740700996153,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 99,
+        "Number of pieces on a pallet": 2376
+    },
+    {
+        "Name": "Fanta Fruit Twist Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Fanta-Fruit-Twist-330ml-600x600.jpg",
+        "EAN": 5000112604849,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Fanta Raspberry & Passionfruit Cans 330ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/UHASJHSASAJL.jpg",
+        "EAN": 5000112605754,
+        "Number of pieces in the package": 24,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 2592
+    },
+    {
+        "Name": "Fanta Orange  2,25L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000034113_1439452326-2.jpg",
+        "EAN": 5449000034113,
+        "Number of pieces in the package": 8,
+        "Number of packages on a pallet": 48,
+        "Number of pieces on a pallet": 384
+    },
+    {
+        "Name": "Fanta Orange  2L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000004840_1439452322-2.jpg",
+        "EAN": 5449000004840,
+        "Number of pieces in the package": 6,
+        "Number of packages on a pallet": 64,
+        "Number of pieces on a pallet": 384
+    },
+    {
+        "Name": "Coca-Cola 2,25L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000025173_1439452325-2.jpg",
+        "EAN": 5449000025173,
+        "Number of pieces in the package": 8,
+        "Number of packages on a pallet": 48,
+        "Number of pieces on a pallet": 384
+    },
+    {
+        "Name": "Coca-Cola  2L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000000286_1439452342-2.jpg",
+        "EAN": 5449000000286,
+        "Number of pieces in the package": 8,
+        "Number of packages on a pallet": 48,
+        "Number of pieces on a pallet": 384
+    },
+    {
+        "Name": "Coca-Cola 1,5L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000000439_1439452327-2.jpg",
+        "EAN": 5449000000439,
+        "Number of pieces in the package": 9,
+        "Number of packages on a pallet": 48,
+        "Number of pieces on a pallet": 432
+    },
+    {
+        "Name": "Coca-Cola 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1434438320_2886501-2-600x600.jpg",
+        "EAN": 5449000054227,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 45,
+        "Number of pieces on a pallet": 675
+    },
+    {
+        "Name": "Coca-Cola 500 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/54491472_1439452328-2.jpg",
+        "EAN": 54491472,
+        "Number of pieces in the package": 12,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 1296
+    },
+    {
+        "Name": "Coca-Cola zero 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000133328_1439452328-2.jpg",
+        "EAN": 5449000133328,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 45,
+        "Number of pieces on a pallet": 675
+    },
+    {
+        "Name": "Mountain Dew 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497281010_1439452322-2.jpg",
+        "EAN": 5900497281010,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Mountain Dew 0,5L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1434471316_2782689-2-600x600.jpg",
+        "EAN": 5900497280501,
+        "Number of pieces in the package": 12,
+        "Number of packages on a pallet": 120,
+        "Number of pieces on a pallet": 1440
+    },
+    {
+        "Name": "7up 500ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1434471086_7-500-2-600x600.jpg",
+        "EAN": 5900497340502,
+        "Number of pieces in the package": 12,
+        "Number of packages on a pallet": 120,
+        "Number of pieces on a pallet": 1440
+    },
+    {
+        "Name": "Mirinda orange 1,5L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497331500_1439452315-2.jpg",
+        "EAN": 5900497331500,
+        "Number of pieces in the package": 9,
+        "Number of packages on a pallet": 48,
+        "Number of pieces on a pallet": 432
+    },
+    {
+        "Name": "Mirinda orange 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497331012_1439452321-2.jpg",
+        "EAN": 5900497331012,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 45,
+        "Number of pieces on a pallet": 675
+    },
+    {
+        "Name": "Mirinda Orange 0.5L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1434470735_mirinda-2-600x600.jpg",
+        "EAN": 5900497330503,
+        "Number of pieces in the package": 12,
+        "Number of packages on a pallet": 120,
+        "Number of pieces on a pallet": 1440
+    },
+    {
+        "Name": "Pepsi Cola 2,25 L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497112383_1439452313-2.jpg",
+        "EAN": 5900497112383,
+        "Number of pieces in the package": 8,
+        "Number of packages on a pallet": 48,
+        "Number of pieces on a pallet": 384
+    },
+    {
+        "Name": "Pepsi Cola 2l",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497311014_1439452341-2.jpg",
+        "EAN": 5900497312004,
+        "Number of pieces in the package": 6,
+        "Number of packages on a pallet": 64,
+        "Number of pieces on a pallet": 384
+    },
+    {
+        "Name": "Pepsi Cola 0,5L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1434470461_pepsi-2-600x600.jpg",
+        "EAN": 5900497310505,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Pepsi light 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497321013_1439452339-2.jpg",
+        "EAN": 5900497321013,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Pepsi light 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000050212_1439452330-2.jpg",
+        "EAN": 5900497321013,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Fanta Orange 500 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/40822938_1439452331-2.jpg",
+        "EAN": 40822938,
+        "Number of pieces in the package": 12,
+        "Number of packages on a pallet": 108,
+        "Number of pieces on a pallet": 1296
+    },
+    {
+        "Name": "Pepsi Max 2,25L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5900497023139_1439452339-2.jpg",
+        "EAN": 5900497023139,
+        "Number of pieces in the package": 8,
+        "Number of packages on a pallet": 84,
+        "Number of pieces on a pallet": 384
+    },
+    {
+        "Name": "Schweppes Bitter Lemon 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185944085_1439452377-2.jpg",
+        "EAN": 8435185944085,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Schweppes Citrus Mix 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185946003_1439452404-2.jpg",
+        "EAN": 8435185946003,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Schweppes Indian Tonic Water 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185944078_1439452301-2.jpg",
+        "EAN": 8435185944078,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Schweppes Lemon 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185945983_1439452403-2.jpg",
+        "EAN": 8435185945983,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Schweppes Lemon Mint 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185945853_1439452404-2.jpg",
+        "EAN": 8435185945853,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Schweppes Orange 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185944108_1439452377-2.jpg",
+        "EAN": 8435185944108,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 50,
+        "Number of pieces on a pallet": 750
+    },
+    {
+        "Name": "Schweppes Citrus Mix 0,5l",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185944047_1439452301-2.jpg",
+        "EAN": 8435185944047,
+        "Number of pieces in the package": 12,
+        "Number of packages on a pallet": 120,
+        "Number of pieces on a pallet": 1440
+    },
+    {
+        "Name": "Schweppes Lemon 0,5l",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185944030_1439452302-2.jpg",
+        "EAN": 8435185944030,
+        "Number of pieces in the package": 12,
+        "Number of packages on a pallet": 120,
+        "Number of pieces on a pallet": 1440
+    },
+    {
+        "Name": "Schweppes Orange 0,5l",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8435185944023_1439452302-2.jpg",
+        "EAN": 8435185944023,
+        "Number of pieces in the package": 12,
+        "Number of packages on a pallet": 120,
+        "Number of pieces on a pallet": 1440
+    },
+    {
+        "Name": "Sprite 2L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5449000004864_1439452324-2.jpg",
+        "EAN": 5449000004864,
+        "Number of pieces in the package": 6,
+        "Number of packages on a pallet": 64,
+        "Number of pieces on a pallet": 384
+    },
+    {
+        "Name": "Sprite 1L",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1434469793_sprite-2-600x600.jpg",
+        "EAN": 5449000050939,
+        "Number of pieces in the package": 15,
+        "Number of packages on a pallet": 45,
+        "Number of pieces on a pallet": 675
+    },
+    {
+        "Name": "Sprite 500 ml",
+        "Category": "carbonated-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/54491069_1439452330-2.jpg",
+        "EAN": 54491069,
+        "Liczba sztuk w opakowaniu": 12,
+        "Liczba opakowań na palecie": 108,
+        "Liczba sztuk na palecie": 1296
+    },
+    {
+        "Name": "Juice Capri Sonne Multivitamina 200ml",
+        "Category": "juices-and-fruit-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/444-600x600.jpg",
+        "EAN": 400177619001,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 324,
+        "Number of pieces on the pallet": 3240
+    },
+    {
+        "Name": "Juice Capri Sonne Orange 200ml",
+        "Category": "juices-and-fruit-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/e5747e712331a23cec1dc261c242f47b.jpg",
+        "EAN": 400177836002,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 324,
+        "Number of pieces on the pallet": 3240
+    },
+    {
+        "Name": "Juice Capri Sonne Safari Fruits 200ml",
+        "Category": "juices-and-fruit-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/4444444-600x654.jpg",
+        "EAN": 4000177622001,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 324,
+        "Number of pieces on the pallet": 3240
+    },
+    {
+        "Name": "Capri-Sun NAS Orange 5pk",
+        "Category": "juices-and-fruit-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/2222222.jpg",
+        "EAN": 5449000037039,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 88,
+        "Number of pieces on the pallet": 704
+    },
+    {
+        "Name": "CAPRI-SUN ORANGE 5PK",
+        "Category": "juices-and-fruit-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/3333-600x411.jpg",
+        "EAN": 5449000074935,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 88,
+        "Number of pieces on the pallet": 704
+    },
+    {
+        "Name": "Capri-Sun Blackcurrant 5pk",
+        "Category": "juices-and-fruit-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1563888824_5449000055927.jpg",
+        "EAN": 5449000055927,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 88,
+        "Number of pieces on the pallet": 704
+    },
+    {
+        "Name": "Orangina Zero 1,4L",
+        "Category": "juices-and-fruit-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Orangina-Zero-14L-SL.jpg",
+        "EAN": ""
+    },
+    {
+        "Name": "Orangina red orange 1.4L",
+        "Category": "juices-and-fruit-drinks",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1441621551_orangina-red-1-4l-2-600x600.jpg",
+        "EAN": 8435185953513,
+        "Number of pieces in the package": 6,
+        "Number of packages on a pallet": 32,
+        "Number of pieces on a pallet": 192
+    },
+    {
+        "Name": "Duplo Chocnut T1 26g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/10.png",
+        "EAN": 80052357,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Duplo Chocnut T5 5x26g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/77-removebg-preview.png",
+        "EAN": 4008400308425,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Duplo Single  18.2g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/14-1-600x600.jpg",
+        "EAN": 40084015,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Duplo T10",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/12.png",
+        "EAN": 4008400301020,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Duplo T18",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1-3.jpg",
+        "EAN": 4008400302829,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Duplo T2 2Riegel 18.2g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/13.jpg",
+        "EAN": 4008400305424,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Duplo WhiteT10",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/11-1.jpeg",
+        "EAN": 4008400671529,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Duplo Wihte Single 18.2g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/15-600x600.jpg",
+        "EAN": 42276630,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Ferrero Collection Ferrero Rondnoir Ferrero Rocher Raffaello 172 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/22-1-600x600.jpg",
+        "EAN": 8000500178652,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 120,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Ferrero Collection Ferrero Rondnoir set of goodies and Raffaello Ferrero Rocher 269 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/222-1.jpg",
+        "EAN": 8000500178669,
+        "Number pieces in packaging": 18,
+        "Number of cases on the pallet": 28,
+        "Number of pieces on the pallet": 504
+    },
+    {
+        "Name": "Ferrero Rocher 200 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/111-2-600x600.jpg",
+        "EAN": 8000500003787,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 65,
+        "Number of pieces on the pallet": 1300
+    },
+    {
+        "Name": "Ferrero Rocher 375g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/3333-1.jpg",
+        "EAN": 8000500032237,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Ferrero Rocher T-16 200g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/11-1-600x428.jpg",
+        "EAN": 4008400163826,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 1152
+    },
+    {
+        "Name": "Milky Way 21,5g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7t56-600x600.jpg",
+        "EAN": 5900951025808,
+        "Number pieces in packaging": 40,
+        "Number of cases on the pallet": 476,
+        "Number of pieces on the pallet": 19040
+    },
+    {
+        "Name": "Milky Way Ameo 25g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/45-600x600.jpg",
+        "EAN": 40111650,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 864,
+        "Number of pieces on the pallet": 20736
+    },
+    {
+        "Name": "Merci Finest Selection Chocolates 400 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/67-600x600.jpg",
+        "EAN": 4014400900217,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Merci Finest Selection Chocolates 250 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/56-600x600.jpg",
+        "EAN": 4014400901191,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 195,
+        "Number of pieces on the pallet": 1950
+    },
+    {
+        "Name": "Toblerone Dark tiny 200g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/78.jpg",
+        "EAN": 7622210413895,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 800
+    },
+    {
+        "Name": "Toblerone White tiny 200g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/87-600x600.jpg",
+        "EAN": 7622210413901,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 800
+    },
+    {
+        "Name": "TOBLERONE DARK 100G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7777-600x600.jpg",
+        "EAN": 7614500010617,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 228,
+        "Number of pieces on the pallet": 4560
+    },
+    {
+        "Name": "Toblerone Fruit and Nut 100g (20szt)",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/777.jpg",
+        "EAN": 7622300107949,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 228,
+        "Number of pieces on the pallet": 4560
+    },
+    {
+        "Name": "TOBLERONE MILK 100G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8888-600x600.jpg",
+        "EAN": 7614500010013,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 228,
+        "Number of pieces on the pallet": 4560
+    },
+    {
+        "Name": "Toblerone Milk 35g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7-600x600.jpeg",
+        "EAN": 76000010,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 228,
+        "Number of pieces on the pallet": 4560
+    },
+    {
+        "Name": "Toblerone White 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/0000.jpeg",
+        "EAN": 7614500010310,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 228,
+        "Number of pieces on the pallet": 4560
+    },
+    {
+        "Name": "Mentos Fruit 37,5g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/mentos-fruit-37-5g-a5c-600x600.jpg",
+        "EAN": 87108026,
+        "Number pieces in packaging": 40,
+        "Number of cases on the pallet": 512,
+        "Number of pieces on the pallet": 20480
+    },
+    {
+        "Name": "Mentos Mint dragees 38g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/88-600x600.jpg",
+        "EAN": 87108019,
+        "Number pieces in packaging": 40,
+        "Number of cases on the pallet": 504,
+        "Number of pieces on the pallet": 20160
+    },
+    {
+        "Name": "Mentos Strong Mint 37,5g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Drazetki-MENTOS-37-5g-Strongmint-Drazetki-20-sztuk.jpeg",
+        "EAN": 87108217,
+        "Number pieces in packaging": 40,
+        "Number of cases on the pallet": 512,
+        "Number of pieces on the pallet": 20480
+    },
+    {
+        "Name": "Mentos Gum Bottle Peppermint 45’s 70g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/9999.jpeg",
+        "EAN": 8003440980729,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 187,
+        "Number of pieces on the pallet": 4488
+    },
+    {
+        "Name": "Nutella 3kg",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/11111.png",
+        "EAN": 8000500131329,
+        "Number pieces in packaging": 2,
+        "Number of cases on the pallet": 90,
+        "Number of pieces on the pallet": 180
+    },
+    {
+        "Name": "Nutella 1000g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/99.jpeg",
+        "EAN": 8000500082379,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 98,
+        "Number of pieces on the pallet": 588
+    },
+    {
+        "Name": "Nutella 825 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/3-1-600x600.jpg",
+        "EAN": 80051428,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 128,
+        "Number of pieces on the pallet": 768
+    },
+    {
+        "Name": "Nutella 750g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/11.jpeg",
+        "EAN": 4008400404127,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 128,
+        "Number of pieces on the pallet": 768
+    },
+    {
+        "Name": "Nutella 650g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/9-removebg-preview-1.png",
+        "EAN": 8000500182185,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 128,
+        "Number of pieces on the pallet": 768
+    },
+    {
+        "Name": "Nutella 630g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8-600x600.jpg",
+        "EAN": 59032823,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 128,
+        "Number of pieces on the pallet": 768
+    },
+    {
+        "Name": "NUTELLA 600G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8-600x600.jpg",
+        "EAN": 8000500179864,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 128,
+        "Number of pieces on the pallet": 768
+    },
+    {
+        "Name": "Nutella 400g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8-600x600.jpg",
+        "EAN": 8000500222096,
+        "Number pieces in packaging": 15,
+        "Number of cases on the pallet": 99,
+        "Number of pieces on the pallet": 1485
+    },
+    {
+        "Name": "Nutella 350g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/4-600x600.jpg",
+        "EAN": 80177173,
+        "Number pieces in packaging": 15,
+        "Number of cases on the pallet": 99,
+        "Number of pieces on the pallet": 1485
+    },
+    {
+        "Name": "Nutella 230 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5-2.jpg",
+        "EAN": 59027904,
+        "Number pieces in packaging": 9,
+        "Number of cases on the pallet": 165,
+        "Number of pieces on the pallet": 1485
+    },
+    {
+        "Name": "NUTELLA 25G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1.png",
+        "EAN": 80809180,
+        "Number pieces in packaging": 64,
+        "Number of cases on the pallet": 216,
+        "Number of pieces on the pallet": 13824
+    },
+    {
+        "Name": "Nutella 2-pack 2x39g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__246_-removebg-preview.png",
+        "EAN": 8000500045497,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 84,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Nutella 15 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/55.jpeg",
+        "EAN": 80751151,
+        "Number pieces in packaging": 60,
+        "Number of cases on the pallet": 264,
+        "Number of pieces on the pallet": 15840
+    },
+    {
+        "Name": "Nutella & Go 52g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/2-1.jpg",
+        "EAN": 80050100,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 285,
+        "Number of pieces on the pallet": 3420
+    },
+    {
+        "Name": "Nutella B-ready 152,8g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/222-600x600.jpg",
+        "EAN": 8000500142035,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 1280
+    },
+    {
+        "Name": "Nutella B-ready 132g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/111-1.jpg",
+        "EAN": 8000500227848,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 135,
+        "Number of pieces on the pallet": 1080
+    },
+    {
+        "Name": "M&M’S PEANUT 100G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/11111.jpg",
+        "EAN": 5900951141652,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "M&M's Choco 45g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/GetImage-2-600x413.jpeg",
+        "EAN": 5900951140303,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 276,
+        "Number of pieces on the pallet": 6624
+    },
+    {
+        "Name": "M&M's Chocolate 90g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/0000000-600x600.jpg",
+        "EAN": 5900951247972,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 256,
+        "Number of pieces on the pallet": 4096
+    },
+    {
+        "Name": "M&M’S CHOCOLATE 100G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/2222.png",
+        "EAN": 5900951141669,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "M&M's Dark Chocolate 47,9g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/000-600x600.jpg",
+        "EAN": 4045805,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 240,
+        "Number of pieces on the pallet": 5760
+    },
+    {
+        "Name": "M&M's MEGA CHOCOLATE 270G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/99.jpg",
+        "EAN": 5000159485777,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "M&M's Peanut 45g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/99999-600x686.jpg",
+        "EAN": 5900951140310,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 276,
+        "Number of pieces on the pallet": 6624
+    },
+    {
+        "Name": "M&M's Peanut 90g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/MMs-Peanut-90g.jpg",
+        "EAN": 5900951247897,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 256,
+        "Number of pieces on the pallet": 4096
+    },
+    {
+        "Name": "M&M's Peanut Butter 90,7g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/e5f80d240d3227fcde3aaac0c0c98d23.jpg",
+        "EAN": 4000043785,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 270,
+        "Number of pieces on the pallet": 5400
+    },
+    {
+        "Name": "M&M’s Chocolate 150g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/a5922e5daa300a0acb7938de587d32b27cb8e2ea-600x800.png",
+        "EAN": 5000159471725,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 112,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "M&M’s Peanut 150g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/12-600x600.jpg",
+        "EAN": 5000159454346,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 112,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "MALTESERS Chocolate Drops 37g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/00-600x600.jpg",
+        "EAN": 5000159020312,
+        "Number pieces in packaging": 25,
+        "Number of cases on the pallet": 220,
+        "Number of pieces on the pallet": 5500
+    },
+    {
+        "Name": "Jacobs Cappuccino Specials Milka Coffe drink with chocolates 22 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/unnamed-6.jpg",
+        "EAN": 7622300120757,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Milka Alpine Milk Caramel 350g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7622210068071-600x545.jpg",
+        "EAN": 7622210068071,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Chocolate Milka Happy Cows 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/czekolada-milka-laciata-happy-cows-100g-1-600x600.jpg",
+        "EAN": 7622400005190,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 30,
+        "Number of pieces on the pallet": 6300
+    },
+    {
+        "Name": "Milka Alpine Milk Chocolate 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-czekolada-alpine-milk-100-g-czekolady-mleczne-i-deserowe-slodkosci-desery-przekaski_0-600x600.jpg",
+        "EAN": 3045140105502,
+        "Number pieces in packaging": 22,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6600
+    },
+    {
+        "Name": "Milka Alpine Milk Chocolate 350 GR",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/unnamed-1-2.jpg",
+        "EAN": 7622300703233,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Milka Alpine Milk Happy Cows 350 GR",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/9-removebg-preview.png",
+        "EAN": 7622300703219,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Milka Alpine Milk Vanilla 350 GR",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/0.jpg",
+        "EAN": 7622300703196,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Milka Cake&Choco 175g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/699503-600x600.jpg",
+        "EAN": 7622300784751,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 160,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Milka Choco & Biscuit 300 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-choco-biscuit-300-g-czekolady-z-nadzieniem-lub-dodatkami-slodkosci-desery-przekaski_0-600x600.jpg",
+        "EAN": 7622200009084,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 192,
+        "Number of pieces on the pallet": 2304
+    },
+    {
+        "Name": "Milka Choco Biscuits 150g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Milka_Milka_Choco_Biscuits_150g_31874654_0_350_350.jpg",
+        "EAN": 7622300590970,
+        "Number pieces in packaging": 14,
+        "Number of cases on the pallet": 98,
+        "Number of pieces on the pallet": 1372
+    },
+    {
+        "Name": "Milka Choco Break Haferflocken 30g single",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__242_-removebg-preview-600x411.png",
+        "EAN": 7622210342133,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 348,
+        "Number of pieces on the pallet": 5568
+    },
+    {
+        "Name": "Milka Choco Break Leinsamen 30g single",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__243_-removebg-preview.png",
+        "EAN": 7622210347336,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 348,
+        "Number of pieces on the pallet": 5568
+    },
+    {
+        "Name": "Milka Choco Grains 168G PL",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/33-600x600.jpg",
+        "EAN": 7622300270506,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 108,
+        "Number of pieces on the pallet": 1728
+    },
+    {
+        "Name": "Milka Choco Jaffa Chocolate128g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/652-large_default.jpg",
+        "EAN": 7622300434472,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 1920
+    },
+    {
+        "Name": "Milka Choco Jaffa Orange 147g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/10046047_main-600x600.jpg",
+        "EAN": 7622300434328,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 1920
+    },
+    {
+        "Name": "Milka Choco Jaffa Raspberry 147g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-choko-jaffa-raspb-147g-600x600.png",
+        "EAN": 7622300434373,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 1920
+    },
+    {
+        "Name": "Milka Choco Jaffa Toffee 128g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-chocojaffa-biszkopty-z-pianka-o-smaku-toffi-w-czekoladzie-mlecznej-z-alpejskiego-mleka-128-g-gm475j-600x600.jpg",
+        "EAN": 7622300434502,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 1920
+    },
+    {
+        "Name": "Milka Choco Moo 160g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/images-1.jpeg",
+        "EAN": 7622300659899,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Milka Choco Twist 140G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5-1-600x600.jpg",
+        "EAN": 7622300784799,
+        "Number pieces in packaging": 14,
+        "Number of cases on the pallet": 75,
+        "Number of pieces on the pallet": 1050
+    },
+    {
+        "Name": "Milka Choco Wafer 180g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/2978861445c790ecbbd581da61e6.jpeg",
+        "EAN": 7622300292508,
+        "Number pieces in packaging": 18,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 1296
+    },
+    {
+        "Name": "Milka Chocolate Alpenmilch 300 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1086.jpg",
+        "EAN": 7622200004607,
+        "Number pieces in packaging": 15,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 2160
+    },
+    {
+        "Name": "Milka Chocolate Bubbly Alpine Milk 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-bubbly-alpine-milk-czekolada-mleczna-w-srodku-napowietrzona-90-g-czekolady-mleczne-i-deserowe-slodkosci-desery-przekaski_0-600x600.jpg",
+        "EAN": 7622210164025,
+        "Number pieces in packaging": 11,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 3300
+    },
+    {
+        "Name": "Milka Chocolate Bubbly White 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/big_89195440-600x600.jpg",
+        "EAN": 7622210168382,
+        "Number pieces in packaging": 14,
+        "Number of cases on the pallet": 240,
+        "Number of pieces on the pallet": 3360
+    },
+    {
+        "Name": "Milka Chocolate Caramel 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-czekolada-caramel-100-g-czekolady-z-nadzieniem-lub-dodatkami-slodkosci-desery-przekaski_0-600x600.jpg",
+        "EAN": 7622300719654,
+        "Number pieces in packaging": 18,
+        "Number of cases on the pallet": 360,
+        "Number of pieces on the pallet": 6480
+    },
+    {
+        "Name": "Milka Chocolate Caramel 280g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-caramel-280g-cadbury-chocolate-tablet-500x500-1.jpg",
+        "EAN": 7622210017383,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 153,
+        "Number of pieces on the pallet": 1836
+    },
+    {
+        "Name": "Milka Chocolate Cherry Cream 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__245_-removebg-preview-1.png",
+        "EAN": 7622300674595,
+        "Number pieces in packaging": 22,
+        "Number of cases on the pallet": 360,
+        "Number of pieces on the pallet": 7920
+    },
+    {
+        "Name": "Milka Chocolate Choco Corn & Forever 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/22-600x571.jpg",
+        "EAN": 7622210295668,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6300
+    },
+    {
+        "Name": "Milka Chocolate Crispy Joghurt 300 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/111-600x600.jpg",
+        "EAN": 7622400904608,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 1728
+    },
+    {
+        "Name": "Milka Chocolate Hazelnuts 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-whole-hazelnut-chocolate-100-g-34-oz.jpg",
+        "EAN": 4025700001023,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 30,
+        "Number of pieces on the pallet": 6000
+    },
+    {
+        "Name": "Milka Chocolate Oreo 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Milka-czekolada-mleczna-Oreo-100-g-600x600.jpeg",
+        "EAN": 7622210078100,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6000
+    },
+    {
+        "Name": "Milka Chocolate Pretzel Loves Choco 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1-2-600x600.jpg",
+        "EAN": 7622210295637,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6300
+    },
+    {
+        "Name": "Milka Chocolate Raisin & Nut 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-czekolada-raisin-nut-100-g-czekolady-z-nadzieniem-lub-dodatkami-slodkosci-desery-przekaski_0-600x600.jpg",
+        "EAN": 3045140280902,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6000
+    },
+    {
+        "Name": "Milka Chocolate Raisin & Nut 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5-600x600.jpg",
+        "EAN": 3045140280902,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6000
+    },
+    {
+        "Name": "Milka Chocolate Raisin and Nuts 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1-1-600x600.jpg",
+        "EAN": 3045140280902,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 30,
+        "Number of pieces on the pallet": 6000
+    },
+    {
+        "Name": "Milka Chocolate Raspberry Cream 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/41omZfo3rrL._PIbundle-10_TopRight_0_0_SX380SY340SH20_-removebg-preview.png",
+        "EAN": 7622300530518,
+        "Number pieces in packaging": 22,
+        "Number of cases on the pallet": 360,
+        "Number of pieces on the pallet": 7920
+    },
+    {
+        "Name": "Milka Chocolate Rice is Choco 's Best Friend 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/2-600x571.jpg",
+        "EAN": 7622210295590,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6300
+    },
+    {
+        "Name": "Milka Chocolate Strawberry Yoghurt 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/951817-01-600x600.jpeg",
+        "EAN": 7622200007332,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6000
+    },
+    {
+        "Name": "Milka Chocolate Toffee Cream 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/11.jpg",
+        "EAN": 5998711723491,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 6300
+    },
+    {
+        "Name": "Milka Chocolate Toffee Wholenut 300 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-czekolada-toffee-wholenut-300-g-czekolady-z-nadzieniem-lub-dodatkami-slodkosci-desery-przekaski_0-600x600.jpg",
+        "EAN": 7622300313357,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 1728
+    },
+    {
+        "Name": "Milka Chocolate Triolade 300 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/i-milka-czekolada-triolade-300g-600x564.jpg",
+        "EAN": 7622300182519,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 153,
+        "Number of pieces on the pallet": 1836
+    },
+    {
+        "Name": "Milka Chocolate Yoghurt 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/i-kraft-foods-czekolada-milka-yoghurt-100g-600x600.jpg",
+        "EAN": 4025700001450,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 30,
+        "Number of pieces on the pallet": 6300
+    },
+    {
+        "Name": "Milka Chocolates Whole Nuts 250 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-czekolada-whole-nuts-250-g.jpg",
+        "EAN": 7622300200312,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 1728
+    },
+    {
+        "Name": "Milka ChocoWafer 30 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/cowafer30c-600x600.jpg",
+        "EAN": 76224935,
+        "Number pieces in packaging": 120,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 8640
+    },
+    {
+        "Name": "Milka Collage Caramel, Bscuit & Chocolate Drops 93g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/images.jpeg",
+        "EAN": 7622210489289,
+        "Number pieces in packaging": 15,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 4500
+    },
+    {
+        "Name": "Milka Collage Raspberry, Hazelnut & Chocolate Drops 93g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/666666666-removebg-preview.png",
+        "EAN": 7622210489234,
+        "Number pieces in packaging": 15,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 4500
+    },
+    {
+        "Name": "Milka Crispello Choco pralines 140 g (14 sztuk)",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1458195617_38586640_8e7373a6d601b6354857914856ca5a28_hd-removebg-preview.png",
+        "EAN": 7622210249364,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 100,
+        "Number of pieces on the pallet": 600
+    },
+    {
+        "Name": "Milka Crispello Vanille praline 140 g (14 pcs)",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/i-milka-140g-crispello-vanille-praliny-nadziewane-kremem-removebg-preview.png",
+        "EAN": 7622210249357,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 100,
+        "Number of pieces on the pallet": 600
+    },
+    {
+        "Name": "Milka Daim Chocolate 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Milka_Milka_Daim_100g_36498897_0_1000_1000-600x600.jpg",
+        "EAN": 7622210078131,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 30,
+        "Number of pieces on the pallet": 6000
+    },
+    {
+        "Name": "MILKA LEO 33,3G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-leo-333g-800x800-1-600x600.jpg",
+        "EAN": 76222276,
+        "Number pieces in packaging": 32,
+        "Number of cases on the pallet": 432,
+        "Number of pieces on the pallet": 13824
+    },
+    {
+        "Name": "Milka Lila Stars Snax Daim 60 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/00034048.jpg",
+        "EAN": 7622300619527,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 121,
+        "Number of pieces on the pallet": 2904
+    },
+    {
+        "Name": "Milka Lila Stars Snax Hazelnuts & Crispy 170 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/38056-1-600x600.jpg",
+        "EAN": 7622300567620,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Milka Lila Stars Snax Hazelnuts and Crispy 60 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/38056-600x600.jpg",
+        "EAN": 7622300621315,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 182,
+        "Number of pieces on the pallet": 4368
+    },
+    {
+        "Name": "Milka Lila Stars Snax Rispee 160 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-lila-stars-snax-rispee-chrupki-ryzowe-w-czekoladzie-160-g-sg7vjj-600x600.jpg",
+        "EAN": 7622210028310,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 135,
+        "Number of pieces on the pallet": 1350
+    },
+    {
+        "Name": "Milka Lila Stars Snax Rispee 50 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-lila-stars-snax-rispee-chrupki-ryzowe-w-czekoladzie-50-g-ggsmv6-600x600.jpg",
+        "EAN": 7622210028280,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 182,
+        "Number of pieces on the pallet": 4368
+    },
+    {
+        "Name": "Milka LU 87g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/55-600x600.jpg",
+        "EAN": 7622210285065,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 220,
+        "Number of pieces on the pallet": 3520
+    },
+    {
+        "Name": "Milka milk pralines Happy Birthday 110 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/download.jpeg",
+        "EAN": 7622210229281,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 63,
+        "Number of pieces on the pallet": 1008
+    },
+    {
+        "Name": "Milka milk pralines I Love Milka 137,5 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/id_9576_1460717833_328x328.jpg",
+        "EAN": 7622300686949,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 63,
+        "Number of pieces on the pallet": 1008
+    },
+    {
+        "Name": "Milka milk pralines Singles mix 147 g (32 sztuki)",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1478819311_18311167_a812bb7c09b4208d1fe6d39fa52db1b6_big-removebg-preview.png",
+        "EAN": 7622300690922,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 200,
+        "Number of pieces on the pallet": 1600
+    },
+    {
+        "Name": "Milka milk pralines Thank You 120 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-czekoladki-mleczne-z-nadzieniem-kakaowym-thank-you-120-g-20-sztuk-600x600.jpg",
+        "EAN": 7622300403997,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 63,
+        "Number of pieces on the pallet": 1008
+    },
+    {
+        "Name": "Milka Oreo 300g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/44-600x600.jpeg",
+        "EAN": 7622210240200,
+        "Number pieces in packaging": 13,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 1872
+    },
+    {
+        "Name": "MILKA OREO 300G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Milka-Czekolada-mleczna-Oreo-300g-600x600.jpeg",
+        "EAN": 7622210240200,
+        "Number pieces in packaging": 13,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 1872
+    },
+    {
+        "Name": "Milka Oreo bar 41g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/pol_pm_Milka-Czekolada-Oreo-41g-93029_1.jpg",
+        "EAN": 7622210463289,
+        "Number pieces in packaging": 35,
+        "Number of cases on the pallet": 325,
+        "Number of pieces on the pallet": 11700
+    },
+    {
+        "Name": "Milka Oreo chocolate flavoured sandwich 176g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-Oreo-Chocolate-cream-biscuits-500x500-1.jpg",
+        "EAN": 7622300360375,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 77,
+        "Number of pieces on the pallet": 924
+    },
+    {
+        "Name": "Milka Oreo cookies covered in milk chocolate 246g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5555555-600x600.jpg",
+        "EAN": 7622300489434,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Milka Oreo cookies covered in white chocolate 246g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/9dc2ac6947c49f42d3f6342d8955.jpeg",
+        "EAN": 7622300489427,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Milka Oreo mini cookies 115g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/oreo-minicookies-115g-center-front-600x600.jpg",
+        "EAN": 5000396020687,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 84,
+        "Number of pieces on the pallet": 672
+    },
+    {
+        "Name": "Milka Pieguski Cookies With Chocolate 135G",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Milka_Milka_Pieguski_Choco_135g_58663410_0_1000_1000-600x600.jpg",
+        "EAN": 5906747312169,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 1920
+    },
+    {
+        "Name": "Milka Pieguski Cookies with nuts 135 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__244_-removebg-preview-1.png",
+        "EAN": 5906747312138,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 1920
+    },
+    {
+        "Name": "Milka Toffees 72 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/unnamed-7.jpg",
+        "EAN": 7622210324030,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 98,
+        "Number of pieces on the pallet": 1568
+    },
+    {
+        "Name": "Milka TUC 87 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7622210285133.jpg",
+        "EAN": 7622210285133,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 4800
+    },
+    {
+        "Name": "Milka Vanilla 100g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/i-milka-czekolada-mleczna-vanilla-cream-100g.jpg",
+        "EAN": 7622210068057,
+        "Number pieces in packaging": 22,
+        "Number of cases on the pallet": 360,
+        "Number of pieces on the pallet": 7920
+    },
+    {
+        "Name": "Milka White Chocolate 100 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/milka-czekolada-white-chocolate-100-g-czekolady-biale-slodkosci-desery-przekaski_0-600x600.jpg",
+        "EAN": 4025700001962,
+        "Number pieces in packaging": 22,
+        "Number of cases on the pallet": 360,
+        "Number of pieces on the pallet": 6600
+    },
+    {
+        "Name": "Milka XL Cookies Chocolate 184g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/4-removebg-preview.png",
+        "EAN": 7622210063113,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 117,
+        "Number of pieces on the pallet": 1170
+    },
+    {
+        "Name": "Bounty 57 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/slodycze-i-przekaski_batony_bounty-baton-z-nadzieniem-kokosowy-57-g.1.jpg",
+        "EAN": 40111216,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 425,
+        "Number of pieces on the pallet": 10200
+    },
+    {
+        "Name": "Bounty Choc Spread 200g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/GetImage-1-600x413.jpeg",
+        "EAN": 5060122039383,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 364,
+        "Number of pieces on the pallet": 2184
+    },
+    {
+        "Name": "Mars 2Pack 69g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/11111111-600x600.png",
+        "EAN": 5900951134937,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 275,
+        "Number of pieces on the pallet": 6600
+    },
+    {
+        "Name": "Mars 47g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/BATON-MARS-47G-20-SZTUK.png",
+        "EAN": 5900951134982,
+        "Number pieces in packaging": 40,
+        "Number of cases on the pallet": 231,
+        "Number of pieces on the pallet": 9240
+    },
+    {
+        "Name": "Mars 9pack 354,6g (9x39,4g)",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/111111.jpeg",
+        "EAN": 5000159484558,
+        "Number pieces in packaging": 11,
+        "Number of cases on the pallet": 108,
+        "Number of pieces on the pallet": 1188
+    },
+    {
+        "Name": "Mars Celebrations 650g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/91hmlVquNXL._SL1500_-600x600.jpg",
+        "EAN": ""
+    },
+    {
+        "Name": "Mars Miniatures 260 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/mars-miniatures-batoniki-z-nugatowym-nadzieniem-oblane-karmelem-i-czekolada-260-g-9t4ihq-600x600.jpg",
+        "EAN": 5900951246661,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 96,
+        "Number of pieces on the pallet": 768
+    },
+    {
+        "Name": "Mars Minis",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/i-mars-baton-mini-paczka-180g-removebg-preview.png",
+        "EAN": 5000159406192,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Snickers 2Pack 75g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/unnamed-3.jpg",
+        "EAN": 5900951027307,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Snickers 50g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/product_nb-600x600.jpg",
+        "EAN": 5000159461122,
+        "Number pieces in packaging": 40,
+        "Number of cases on the pallet": 231,
+        "Number of pieces on the pallet": 9240
+    },
+    {
+        "Name": "Snickers 9pack 375,3g (9x41,7g)",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/55555.jpeg",
+        "EAN": 5000159484503,
+        "Number pieces in packaging": 11,
+        "Number of cases on the pallet": 108,
+        "Number of pieces on the pallet": 1188
+    },
+    {
+        "Name": "Snickers Crisp 40g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/baton-snickers-crisp-40g-x-24-sztuki.jpg",
+        "EAN": 4607065735319,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 540,
+        "Number of pieces on the pallet": 12960
+    },
+    {
+        "Name": "Snickers Crisp Trio 60g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/2SNICT60-26_08_2021_12_28_54.jpg",
+        "EAN": 4607065735326,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 252,
+        "Number of pieces on the pallet": 6048
+    },
+    {
+        "Name": "Snickers Hazelnut 49g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/snickers-hazelnut-baton-z-nadzieniem-i-orzechami-w-karmelu-49-g-e0m9d8-600x600.jpg",
+        "EAN": 5900951251191,
+        "Number pieces in packaging": 32,
+        "Number of cases on the pallet": 308,
+        "Number of pieces on the pallet": 9856
+    },
+    {
+        "Name": "Snickers Miniatures 260 g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/snickers-miniatures-batonik-z-nugatowym-nadzieniem-orzeszkami-ziemnymi-w-karmelu-i-czekoladzie-260-g-bapa2s-600x600.jpg",
+        "EAN": 5900951246708,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 96,
+        "Number of pieces on the pallet": 768
+    },
+    {
+        "Name": "Twix Choc Spread 200g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5060402901928_21778_1.jpg",
+        "EAN": 5060402901928,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 364,
+        "Number of pieces on the pallet": 2184
+    },
+    {
+        "Name": "Twix Cappuccino 46g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7-600x600.jpg",
+        "EAN": 5000159483209,
+        "Number pieces in packaging": 32,
+        "Number of cases on the pallet": 300,
+        "Number of pieces on the pallet": 9600
+    },
+    {
+        "Name": "Twix 50g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Twix_Twix_baton_50g_67590570_0_350_350.jpg",
+        "EAN": 5000159459228,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Twix 7pack 350g (7x(2x25g))",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__247_-removebg-preview-1.png",
+        "EAN": 5000159366243,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 120,
+        "Number of pieces on the pallet": 1440
+    },
+    {
+        "Name": "Twix Xtra 75g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Baton-Twix-Xtra-75g.jpeg",
+        "EAN": 5900951028502,
+        "Number pieces in packaging": 30,
+        "Number of cases on the pallet": 210,
+        "Number of pieces on the pallet": 6300
+    },
+    {
+        "Name": "KITKAT 2FINGER COOKIES & CREAM 8-PACK 166,4g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/snapshotimagehandler_598476552.jpeg",
+        "EAN": 7613033773778,
+        "Number pieces in packaging": 42,
+        "Number of cases on the pallet": 88,
+        "Number of pieces on the pallet": 3696
+    },
+    {
+        "Name": "KITKAT 2FINGER DARK MINT 8-PACK 166,4g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/41VKanFQTsL._AC_SX342_.jpg",
+        "EAN": 7613035434769,
+        "Number of pieces in the package": 42,
+        "Number of packages on a pallet": 88,
+        "Number of pieces on a pallet": 3696
+    },
+    {
+        "Name": "KITKAT 2FINGER MILK 8-PACK 166,4g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7613035219328_3.jpeg",
+        "EAN": 7613035219335,
+        "Number pieces in packaging": 42,
+        "Number of cases on the pallet": 88,
+        "Number of pieces on the pallet": 3696
+    },
+    {
+        "Name": "KITKAT 2FINGER ORANGE 8-PACK 166,4g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/snapshotimagehandler_1671006842.jpeg",
+        "EAN": 7613035219458,
+        "Number of pieces in the package": 42,
+        "Number of packages on a pallet": 88,
+        "Number of pieces on a pallet": 3696
+    },
+    {
+        "Name": "KITKAT 2FINGER TOFFEE TREAT 8-PACK 166,4g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/snapshotimagehandler_1198868216.jpeg",
+        "EAN": 7613034960849,
+        "Number of pieces in the package": 42,
+        "Number of packages on a pallet": 88,
+        "Number of pieces on a pallet": 3696
+    },
+    {
+        "Name": "Nestle Kitkat Bites 104g",
+        "Category": "sweets-and-chocolate",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/kitkat-bites-milk-chocolate-bag-104g-800x800-1-600x600.jpeg",
+        "EAN": ""
+    },
+    {
+        "Name": "Lipton Tea T'100",
+        "Category": "tea-coffee",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/qqqq.jpg",
+        "EAN": 5900300550258,
+        "Number pieces in packaging": 36,
+        "Number of cases on the pallet": 25,
+        "Number of pieces on the pallet": 900
+    },
+    {
+        "Name": "Lipton Tea T50",
+        "Category": "tea-coffee",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/llll.jpg",
+        "EAN": 5900300550203,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 1440
+    },
+    {
+        "Name": "Nescafé 3in1 Classic 180 g (10 pcs)",
+        "Category": "tea-coffee",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/kk.png",
+        "EAN": 7613032868505,
+        "Number pieces in packaging": 18,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Nescafé Classic 100 g",
+        "Category": "tea-coffee",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/yy.jpg",
+        "EAN": 7613031918867,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 864
+    },
+    {
+        "Name": "Nescafe Classic 200g",
+        "Category": "tea-coffee",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/tttt-removebg-preview.png",
+        "EAN": 761303198881,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 96,
+        "Number of pieces on the pallet": 576
+    },
+    {
+        "Name": "Nescafe Gold 100g",
+        "Category": "tea-coffee",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/g-600x400.jpg",
+        "EAN": 5601001324109,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 864
+    },
+    {
+        "Name": "Nescafé Gold Blend 100 g",
+        "Category": "tea-coffee",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/jjj.jpg",
+        "EAN": 4005500047049,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 864
+    },
+    {
+        "Name": "Nescafé Gold Blend 200 g",
+        "Category": "tea-coffee",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/iii.jpg",
+        "EAN": 4005500047056,
+        "Number pieces in packaging": 6,
+        "Number of cases on the pallet": 8,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Gillette Blue II (5 pcs) Disposable Razors",
+        "Category": "skin-and-hair-care",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/44-1-600x600.jpeg",
+        "EAN": 7702018849031,
+        "Number pieces in packaging": 24,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 1728
+    },
+    {
+        "Name": "Gillette Blue III 10pcs",
+        "Category": "skin-and-hair-care",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/34.jpg",
+        "EAN": 7702018020287,
+        "Number pieces in packaging": 120,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 7200
+    },
+    {
+        "Name": "NIVEA Straight & Gloss Shampoo hair straightening strutting and difficult to lay 400 ml",
+        "Category": "skin-and-hair-care",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8-1.jpg",
+        "EAN": 4005808342549,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Domestos Citrus Fresh Gel 700 ml toilets",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/eee.jpg",
+        "EAN": 8712561472678,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 45,
+        "Number of pieces on the pallet": 900
+    },
+    {
+        "Name": "Domestos 24 Plus Atlantic Fresh Liquid detergent and disinfectant 1250 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/qqqqq-600x450.jpg",
+        "EAN": 8717644451267,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Domestos 24 Plus Citrus Fresh Liquid detergent and disinfectant 1250 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/eee.jpg",
+        "EAN": 8717644451281,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Domestos 24 Plus Clean & Shine Liquid detergent and disinfectant 750 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/tr-600x600.png",
+        "EAN": 8712561346597,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 45,
+        "Number of pieces on the pallet": 900
+    },
+    {
+        "Name": "Domestos 24 Plus Clean and Shine Liquid detergent and disinfectant 1250 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/rrr-removebg-preview.png",
+        "EAN": 8712561398466,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Domestos 24 Plus Pine Fresh Liquid detergent and disinfectant 1250 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/rrrrrr-600x718.jpg",
+        "EAN": 5996037001903,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Domestos 24 Plus Red Power Liquid detergent and disinfectant 750 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/yt.jpeg",
+        "EAN": 8717163083307,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 45,
+        "Number of pieces on the pallet": 900
+    },
+    {
+        "Name": "Domestos 24h Plus Atlantic Fresh Liquid detergent and disinfectant 750 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/uy.jpg",
+        "EAN": 8717163286975,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 45,
+        "Number of pieces on the pallet": 900
+    },
+    {
+        "Name": "Domestos 24h Plus Pine Fresh Liquid detergent and disinfectant 750 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/iuuu-600x600.jpg",
+        "EAN": 5996037079797,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 45,
+        "Number of pieces on the pallet": 900
+    },
+    {
+        "Name": "Lenor Fabric Softener concentrate 2 l Sensitive Almond Oil",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/3545-600x600.jpeg",
+        "EAN": 4015600817510,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 320
+    },
+    {
+        "Name": "Lenor Fabric Softener concentrate 2L Spring",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/lllll.jpg",
+        "EAN": 5413149584341,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 320
+    },
+    {
+        "Name": "Lenor Floral Fabric Softener concentrate 2 l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/98.jpeg",
+        "EAN": 5413149962606,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 320
+    },
+    {
+        "Name": "Lenor Parfumelle Elegante Fabric Softener Concentrate 750 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/74-600x600.jpg",
+        "EAN": 5410076482184,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 864
+    },
+    {
+        "Name": "Lenor Parfumelle Mysterieuse PFabric Softener Concentrate 750 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/40145-600x600.jpg",
+        "EAN": 5410076258444,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 864
+    },
+    {
+        "Name": "Lenor Relaxed Fabric Softener concentrate 1 l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8541-600x600.jpg",
+        "EAN": 5413149585454,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 54,
+        "Number of pieces on the pallet": 648
+    },
+    {
+        "Name": "Lenor Relaxed Fabric Softener concentrate 2 l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/765.jpg",
+        "EAN": 5413149593183,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 320
+    },
+    {
+        "Name": "Lenor Sensitive Almond Oil Fabric Softener concentrate 1 l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5675-removebg-preview.png",
+        "EAN": 4015600817176,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 54,
+        "Number of pieces on the pallet": 648
+    },
+    {
+        "Name": "Lenor Sensitive Fabric Softener concentrate 1 l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1324-600x600.jpg",
+        "EAN": 5413149586833,
+        "Number pieces in packaging": 12,
+        "Number of cases on the pallet": 54,
+        "Number of pieces on the pallet": 648
+    },
+    {
+        "Name": "Lenor Sensitive Fabric Softener concentrate 2 l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5678-600x600.jpg",
+        "EAN": 5413149586895,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 320
+    },
+    {
+        "Name": "Lenor Summer Fabric Softener concentrate 2L",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/ttt.jpg",
+        "EAN": 5413149584464,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 320
+    },
+    {
+        "Name": "Lenor Tropical Fabric Softener concentrate 2 l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/90.jpg",
+        "EAN": 5413149584761,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 40,
+        "Number of pieces on the pallet": 320
+    },
+    {
+        "Name": "Spring Lenor fabric softener Fabric Softener 925 ml (37 washes)",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/09.jpg",
+        "EAN": 4084500471474,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 576
+    },
+    {
+        "Name": "Bref WC Hawaii Hibiscus Freshener hanger to toilet 2 x 50 g",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__252_-removebg-preview.png",
+        "EAN": 9000100972093,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 1440
+    },
+    {
+        "Name": "Bref WC Rio Carnival Freshener hanger to toilet 2 x 50 g",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__253_-removebg-preview.png",
+        "EAN": 9000100971386,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 144,
+        "Number of pieces on the pallet": 1440
+    },
+    {
+        "Name": "Bref WC Power Aktiv Lemon hanger to toilet 3 x 50 g",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__254_-removebg-preview-1.png",
+        "EAN": 9000100753371,
+        "Number pieces in packaging": 9,
+        "Number of cases on the pallet": 112,
+        "Number of pieces on the pallet": 1008
+    },
+    {
+        "Name": "Bref WC Duo Stick Blue Ocean WC 27 g (3 pcs.)",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/51-600x420.jpeg",
+        "EAN": 9000100831604,
+        "Number pieces in packaging": 26,
+        "Number of cases on the pallet": 192,
+        "Number of pieces on the pallet": 4992
+    },
+    {
+        "Name": "Bref WC Duo Stick Fresh Flower WC 27 g (3 pcs.)",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__251_-removebg-preview.png",
+        "EAN": 9000100831642,
+        "Number pieces in packaging": 26,
+        "Number of cases on the pallet": 192,
+        "Number of pieces on the pallet": 4992
+    },
+    {
+        "Name": "Bref WC Duo Stick Lime & Mint WC 27 g (3 pcs.)",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__250_-removebg-preview-1.png",
+        "EAN": 9000100831567,
+        "Number pieces in packaging": 26,
+        "Number of cases on the pallet": 192,
+        "Number of pieces on the pallet": 4992
+    },
+    {
+        "Name": "Bref WC Fresh Pearls Fresh Apple toilets Gel 200 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/67-600x600.png",
+        "EAN": 9000100185080,
+        "Number pieces in packaging": 18,
+        "Number of cases on the pallet": 45,
+        "Number of pieces on the pallet": 810
+    },
+    {
+        "Name": "Bref WC Fresh Pearls Fresh Apple Toilets Gel 360 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/14.jpg",
+        "EAN": 9000100704502,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Bref WC Fresh Pearls Fresh Ocean Shower Toilets Gel 360 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/13-600x600.png",
+        "EAN": 9000100704472,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Bref WC Fresh Pearls Fresh Pine toilets Gel 200 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/44.png",
+        "EAN": 9000100362214,
+        "Number pieces in packaging": 18,
+        "Number of cases on the pallet": 45,
+        "Number of pieces on the pallet": 810
+    },
+    {
+        "Name": "Bref WC Fresh Pearls Fresh Pine toilets Gel 360 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/12-removebg-preview.png",
+        "EAN": 9000100704441,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Bref WC Fresh Pearls Lemon Fresh Toilet Gel 200 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/45-1.jpg",
+        "EAN": 9000100185141,
+        "Number pieces in packaging": 18,
+        "Number of cases on the pallet": 45,
+        "Number of pieces on the pallet": 810
+    },
+    {
+        "Name": "Bref WC Fresh Pearls Lemon Fresh Toilet Gel 360 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/122.jpg",
+        "EAN": 9000100704533,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "LUX Soap Good Day Sunshine 125g",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/luxgooddaysunshine-600x600.jpg",
+        "EAN": 5000186373016,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Lux Soft Touch Soap with SilkEssence & Rose Water Multi Pack (12 X 100g)",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/41frvJIep7L.jpg",
+        "EAN": 706927781519
+    },
+    {
+        "Name": "Cif Cream Lemon with microgranule Lotion Cleaning 250 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/66666.png",
+        "EAN": 5996037000746,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Cif Cream Lemon with microgranule Lotion Cleaning 500 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/56-1.jpg",
+        "EAN": 5996037000753,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 75,
+        "Number of pieces on the pallet": 1200
+    },
+    {
+        "Name": "Cif Cream Original with microgranule Lotion Cleaning 250 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7777777-600x600.jpg",
+        "EAN": 5996037000722,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Cif Cream Original with microgranule Lotion Cleaning 500 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5555555555555-600x600.png",
+        "EAN": 5996037000739,
+        "Number pieces in packaging": 16,
+        "Number of cases on the pallet": 75,
+        "Number of pieces on the pallet": 1200
+    },
+    {
+        "Name": "Cif Cream with Bleach with microgranule Lotion Cleaning 250 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/666.jpg",
+        "EAN": 5996037000760,
+        "Number pieces in packaging": 0,
+        "Number of cases on the pallet": 0,
+        "Number of pieces on the pallet": 0
+    },
+    {
+        "Name": "Cif Ultra White 750ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/66-2.jpg",
+        "EAN": 8711700522885,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 80,
+        "Number of pieces on the pallet": 640
+    },
+    {
+        "Name": "Fairy Apple 1350 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/259.jpg",
+        "EAN": 4015400958215,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Fairy Apple 450 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/5-600x600.jpeg",
+        "EAN": 4015400956181,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Apple 900 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Fairy-Apple-Plyn-do-mycia-naczyn-900-ml-600x600.jpeg",
+        "EAN": 4015400958055,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Fairy Lemon 1350 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/88.webp",
+        "EAN": 4015400958178,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Fairy Lemon 450 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/33-2-600x686.jpg",
+        "EAN": 4015400956082,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Lemon 650 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8888888888-removebg-preview.png",
+        "EAN": 4015400983590,
+        "Number pieces in packaging": 20,
+        "Number of cases on the pallet": 48,
+        "Number of pieces on the pallet": 960
+    },
+    {
+        "Name": "Fairy Lemon 900 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/9-1.jpg",
+        "EAN": 4015400957973,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Fairy Orange 450 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/4-1-600x600.jpeg",
+        "EAN": 4015400956150,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Orange 900 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/99-2.jpg",
+        "EAN": 4015400958017,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Fairy Platinum Arctic Fresh 430 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/2-3.jpg",
+        "EAN": 4015400955405,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Platinum Arctic Fresh 650 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/3-removebg-preview.png",
+        "EAN": 4015400955702,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Platinum Lemon & Lime 430 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/1-2-600x600.png",
+        "EAN": 4015400955337,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Platinum Lemon & Lime 650 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/22-600x600.png",
+        "EAN": 4015400955580,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Pomegranate & Red Orange 1350 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/888.jpg",
+        "EAN": 4015400958253,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Fairy Pomegranate & Red Orange 450 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/6.jpeg",
+        "EAN": 4015400956266,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Pomegranate & Red Orange 900 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/999-2-600x450.jpg",
+        "EAN": 4015400958093,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 720
+    },
+    {
+        "Name": "Fairy Sensitive Chamomile & Vit E 1350 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/8888-1-600x600.jpg",
+        "EAN": 4015400958291,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Fairy Sensitive Chamomile & Vit E 450 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/7-600x600.png",
+        "EAN": 4015400956303,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Sensitive Teatree & Mint 1350 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/777-1.jpeg",
+        "EAN": 4015400958338,
+        "Number pieces in packaging": 8,
+        "Number of cases on the pallet": 60,
+        "Number of pieces on the pallet": 480
+    },
+    {
+        "Name": "Fairy Professional Sensitive 5l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/000-1-600x600.jpg",
+        "EAN": 4084500583115,
+        "Number pieces in packaging": 3,
+        "Number of cases on the pallet": 48,
+        "Number of pieces on the pallet": 144
+    },
+    {
+        "Name": "Fairy Professional Lemon 5l",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/00-1-600x600.jpeg",
+        "EAN": 4015600626228,
+        "Number pieces in packaging": 3,
+        "Number of cases on the pallet": 48,
+        "Number of pieces on the pallet": 144
+    },
+    {
+        "Name": "Fairy Sensitive Teatree & Mint 450 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/0-600x600.jpeg",
+        "EAN": 4015400956358,
+        "Number pieces in packaging": 21,
+        "Number of cases on the pallet": 64,
+        "Number of pieces on the pallet": 1344
+    },
+    {
+        "Name": "Fairy Sensitive Teatree & Mint 650 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/Screenshot__248_-removebg-preview-1.png",
+        "EAN": ""
+    },
+    {
+        "Name": "Fairy Sensitive Teatree & Mint 900 ml",
+        "Category": "kitchen-bathroom",
+        "ImageLink": "http://www.mdmbrands.pl/wp-content/uploads/2021/09/0000-600x600.jpg",
+        "EAN": 4015400958130,
+        "Number pieces in packaging": 10,
+        "Number of cases on the pallet": 72,
+        "Number of pieces on the pallet": 720
+    }
+]
