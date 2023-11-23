@@ -32,16 +32,13 @@ def get_produts_info(url: str, category: str) -> dict:
     """
     page_source = requests.get(url)
     soup = bs4.BeautifulSoup(page_source.text, "html.parser")
+    name = soup.find("h1", {"class": "product_title entry-title elementor-heading-title elementor-size-default"})
     product_info = {
-        "Name": "",
         "Category": category,
         "ImageLink": "",
         "EAN": "",
+        "Name": name.text,
     }
-
-    name = soup.find("h1", {"class": "product_title entry-title elementor-heading-title elementor-size-default"})
-    product_info["Name"] = name.text
-
     try:
         table = soup.find("table")
         table = table.find("tbody")

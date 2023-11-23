@@ -29,20 +29,29 @@ def get_data():
 
 
 def check_product(checking_product: dict) -> bool:
-    if list(checking_product.keys()) == ["Name", "Category", "ImageLink", "EAN", "Number pieces in packaging", "Number of cases on the pallet", "Number of pieces on the pallet"] or list(product.keys()) == ["Name", "Category", "ImageLink", "EAN", "Number of pieces in the package", "Number of packages on a pallet", "Number of pieces on a pallet"]:
-        return True
-    else:
-        return False
+    return list(checking_product.keys()) == [
+        "Name",
+        "Category",
+        "ImageLink",
+        "EAN",
+        "Number pieces in packaging",
+        "Number of cases on the pallet",
+        "Number of pieces on the pallet",
+    ] or list(product.keys()) == [
+        "Name",
+        "Category",
+        "ImageLink",
+        "EAN",
+        "Number of pieces in the package",
+        "Number of packages on a pallet",
+        "Number of pieces on a pallet",
+    ]
     
     
 def check_issued_data(issued_product: dict) -> bool:
     required_keys = ["Name", "Category", "ImageLink"]
-    
-    for required_key in required_keys:
-        if required_key not in issued_product:
-            return False
-        
-    return True
+
+    return all(required_key in issued_product for required_key in required_keys)
 
 
 def default_ean(checking_product: dict) -> str:
